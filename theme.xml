@@ -16,10 +16,10 @@
     <size>0.04</size>
   </descriptionFont>
 
-  <menuScrollSound>./../sounds/GS25.wav</menuScrollSound>
-  <menuSelectSound>./../sounds/GS42.wav</menuSelectSound>
-  <menuBackSound>./../sounds/GS28.wav</menuBackSound>
-  <menuOpenSound>./../sounds/SNES5.wav</menuOpenSound>
+  <menuScrollSound>./../sounds/scroll.wav</menuScrollSound>
+  <menuSelectSound>./../sounds/select.wav</menuSelectSound>
+  <menuBackSound>./../sounds/back.wav</menuBackSound>
+  <menuOpenSound>./../sounds/open.wav</menuOpenSound>
 
   <gameImagePos>$infoWidth/2 0.18</gameImagePos>
   <gameImageDim>$infoWidth 0</gameImageDim>
@@ -49,10 +49,10 @@
     <size>0.04</size>
   </descriptionFont>
 
-  <menuScrollSound>./../sounds/GS25.wav</menuScrollSound>
-  <menuSelectSound>./../sounds/GS42.wav</menuSelectSound>
-  <menuBackSound>./../sounds/GS28.wav</menuBackSound>
-  <menuOpenSound>./../sounds/SNES5.wav</menuOpenSound>
+  <menuScrollSound>./../sounds/scroll.wav</menuScrollSound>
+  <menuSelectSound>./../sounds/select.wav</menuSelectSound>
+  <menuBackSound>./../sounds/back.wav</menuBackSound>
+  <menuOpenSound>./../sounds/open.wav</menuOpenSound>
 
   <component>
     <type>image</type>
