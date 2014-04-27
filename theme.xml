@@ -4,7 +4,7 @@
   <listLeftAlign />
 
   <listPrimaryColor>ffffff</listPrimaryColor>
-  <listSelectorColor>222222</listSelectorColor>
+  <listSelectorColor>$color</listSelectorColor>
   <listFont>
     <path>./../art/terminus.ttf</path>
     <size>0.04</size>
@@ -35,7 +35,7 @@
 
 <basicTheme>
   <listPrimaryColor>ffffff</listPrimaryColor>
-  <listSelectorColor>222222</listSelectorColor>
+  <listSelectorColor>$color</listSelectorColor>
   <hideHeader />
   <hideDividers />
 
@@ -61,3 +61,4 @@
     <dim>0 0</dim>
   </component>
 </basicTheme>
+

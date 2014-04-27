@@ -1,0 +1,5 @@
+gba           5c4574
+gbc           87c335
+nes           e40420
+snes          605ca1
+cavestory     44608a
